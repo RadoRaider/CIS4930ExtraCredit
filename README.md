@@ -4,7 +4,7 @@ HOW TO RUN
 2. Install compiler of your choice.
 3. Run the command >g++ -o anyexename extracredit.cpp
 4. Run ./anyexename
-# anyexename can be whatever executable name you want.
+(anyexename can be whatever executable name you want.)
 5. For individual usage, simply remove the main function an implement your own that runs whatever commands are tested.
 
 
